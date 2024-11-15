@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personality Quiz</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 10px;
-      line-height: 1.5;
-    }
-    form {
-      max-width: 400px;
-      margin: 0 auto;
-    }
-    .question {
-      margin-bottom: 15px;
-    }
-    .result {
-      font-weight: bold;
-      margin-top: 20px;
-      text-align: center;
-    }
-    .error {
-      color: red;
-      font-weight: bold;
-    }
-  </style>
-</head>
 <body>
   <h1 style="margin-bottom: 10px; text-align: center;">Таны манлайлах хэв маяг юу вэ?</h1> 
   <form id="quizForm">
